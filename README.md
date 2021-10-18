@@ -6,5 +6,5 @@ I love coding because building something that might help that lives of someone, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregg-garceau&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregg-garceau&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# Connect with me on <a href=https://www.linkedin.com/in/ggarceau/> LinkedIn </a>!
+# Connect with me on <a href=https://www.linkedin.com/in/ggarceau/>LinkedIn</a>!
 
